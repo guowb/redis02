@@ -30,6 +30,10 @@ public class TestRedis {
         jedis.set("zxc","zxcp","nx");
         System.out.println(zz);
         jedis.close();
+        /*
+        * 我加了很多备注
+        * 这是不是啊
+        * */
 
     }
 
